@@ -1,4 +1,4 @@
-# Progress
+# Progress and goals
 Summary of my work so far and plans for the future.  :dart:
 
 ## Table of contents
@@ -46,6 +46,7 @@ Projects created from Youtube materials or documentation to learn certain topics
 :arrow_right: [Algorithm a day](https://github.com/franekfranek/Algorithm_A_Day)
 
 ## Topic to do in near future
+:large_orange_diamond: Microservices in-depth
 :large_orange_diamond: Kubernetes  
 :large_orange_diamond: Design patterns  
 :large_orange_diamond: CSS & SASS  
